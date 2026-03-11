@@ -461,20 +461,25 @@
 
       <div class="board-grid">
         <div class="board-member">
-          <div class="avatar">BA</div>
-          <h3>Board President</h3> LaTonia Hall
+          <div class="avatar">LH</div>
+          <h3>Board President-LaTonia Hall</h3>
           <p>Provides leadership, meeting oversight, and community direction.</p>
         </div>
         <div class="board-member">
-          <div class="avatar">HO</div>
-          <h3>Vice President</h3> James Simpson
+          <div class="avatar">JS</div>
+          <h3>Vice President-James Simpson</h3> 
           <p>Supports governance efforts and helps coordinate HOA initiatives.</p>
         </div>
         <div class="board-member">
-          <div class="avatar">EA</div>
-          <h3>Secretary / Treasurer</h3> Mike Unterkofler
+          <div class="avatar">MU</div>
+          <h3>Secretary / Treasurer-Mike Unterkofler</h3> 
           <p>Maintains records, communications, and financial transparency.</p>
-        </div>
+      </div>
+        <div class="board-member">
+          <div class="avatar">AH</div>
+          <h3>Secretary / Member At Large-Albert Havrilla</h3> 
+          <p>Maintains records, communications, and financial transparency.</p>
+      </div>
       </div>
     </div>
   </section>
