@@ -458,27 +458,30 @@
       <p class="section-subtitle">
         Meet the dedicated volunteers working to support Bel Aire Estates and serve our residents.
       </p>
-
       <div class="board-grid">
         <div class="board-member">
           <div class="avatar">LH</div>
-          <h3>Board President-LaTonia Hall</h3>
+          <h3>Board President</h3>
+          <p>LaTonia Hall</p><h3> 
           <p>Provides leadership, meeting oversight, and community direction.</p>
         </div>
         <div class="board-member">
           <div class="avatar">JS</div>
-          <h3>Vice President-James Simpson</h3> 
+          <h3>Vice President</h3>
+          <p>James Simpson</p><h3>
           <p>Supports governance efforts and helps coordinate HOA initiatives.</p>
         </div>
         <div class="board-member">
           <div class="avatar">MU</div>
-          <h3>Secretary / Treasurer-Mike Unterkofler</h3> 
+          <h3>Treasurer </h3>
+          <p>Mike Unterkofler</p><h3>
           <p>Maintains records, communications, and financial transparency.</p>
       </div>
         <div class="board-member">
           <div class="avatar">AH</div>
-          <h3>Secretary / Member At Large-Albert Havrilla</h3> 
-          <p>Maintains records, communications, and financial transparency.</p>
+      <h3>Member At Large</h3>
+        <p>Albert Havrilla</p>
+        <p>Maintains records, communications, and financial transparency.</p>
       </div>
       </div>
     </div>
